@@ -11,3 +11,4 @@ This is a project which contains code for controlling a robot using processing. 
 - Create an Access database and create the tables to your needs.
 - Modify/customize the Processing server so that it uploads to the right tables/columns.
 - Run the processing client and control!
+<img width="910" height="526" alt="image" src="https://github.com/user-attachments/assets/80e722ac-4075-4dd1-a2e2-ffb58083ffda" />
